@@ -1,0 +1,24 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2024-10-16 09:58:15.581 UTC</timestamp>
+  <md5sum>8eb8a778adac44507edb865cf748c279</md5sum>
+  <fileName>Credential id=gitea-server-creds name=gitea-admin/******</fileName>
+  <usages>
+    <entry>
+      <string>Gitea-Dasher-Org-Project/solar-system/feature%2Fenabling-cicd</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1384.vf0a_2ed06f9c6">
+      <timestamp>1730096231960</timestamp>
+      <itemFullName>Gitea-Dasher-Org-Project</itemFullName>
+      <timestamp0>1730096231741</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1384.vf0a_2ed06f9c6">
+      <timestamp>1730096278479</timestamp>
+      <itemFullName>Gitea-Dasher-Org-Project/solar-system</itemFullName>
+      <timestamp0>1730096247133</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

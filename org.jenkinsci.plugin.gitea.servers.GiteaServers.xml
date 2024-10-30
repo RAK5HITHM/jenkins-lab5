@@ -1,0 +1,11 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugin.gitea.servers.GiteaServers plugin="gitea@220.v4618c82a_40fb_">
+  <servers>
+    <org.jenkinsci.plugin.gitea.servers.GiteaServer>
+      <displayName>Gitea-Server</displayName>
+      <serverUrl>http://git-server:5555</serverUrl>
+      <manageHooks>true</manageHooks>
+      <credentialsId>gitea-server-creds</credentialsId>
+    </org.jenkinsci.plugin.gitea.servers.GiteaServer>
+  </servers>
+</org.jenkinsci.plugin.gitea.servers.GiteaServers>

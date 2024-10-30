@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.branch.OrganizationFolder_-State plugin="branch-api@2.1178.v969d9eb_c728e">
+  <actions>
+    <entry>
+      <string>org.jenkinsci.plugin.gitea.GiteaSCMNavigator::http://git-server:5555::dasher-org</string>
+      <list>
+        <jenkins.scm.api.metadata.ObjectMetadataAction plugin="scm-api@696.v778d637b_a_762">
+          <objectDisplayName>Dasher Organization</objectDisplayName>
+          <objectUrl>http://git-server:5555/dasher-org</objectUrl>
+        </jenkins.scm.api.metadata.ObjectMetadataAction>
+        <org.jenkinsci.plugin.gitea.GiteaAvatar plugin="gitea@220.v4618c82a_40fb_">
+          <avatar>http://git-server:5555/avatars/6d33a70661af27c26f5ad4aa37b10580</avatar>
+        </org.jenkinsci.plugin.gitea.GiteaAvatar>
+        <org.jenkinsci.plugin.gitea.GiteaLink plugin="gitea@220.v4618c82a_40fb_">
+          <iconClassName>icon-gitea-org</iconClassName>
+          <url>http://git-server:5555/dasher-org</url>
+        </org.jenkinsci.plugin.gitea.GiteaLink>
+      </list>
+    </entry>
+  </actions>
+</jenkins.branch.OrganizationFolder_-State>
